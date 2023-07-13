@@ -2,9 +2,9 @@
 Detect driver drowsiness using tensorflow and transfer learning
 
 ## Points to note
--Download the MRL eye Dataset\n
--create 2 folders for train and test \n
--Inside the above created folders create 2 more folders for closed and open in each
+Download the MRL eye Dataset<br>
+create 2 folders for train and test <br>
+Inside the above created folders create 2 more folders for closed and open in each
 
 ## Note: 
 set the path to required file path as comfortable
